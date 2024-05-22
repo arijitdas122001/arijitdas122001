@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 Hi I am Arijit Das <br> A passionate full stack developer
 
 
