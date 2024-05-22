@@ -1,5 +1,5 @@
 
-Hi I am Arijit Das <br> A passionate full stack developer
+<h1>Hi I am Arijit Das</h1> <br> <h3>A passionate full stack developer</h3>
 
 
 ## 🌐 Socials:
